@@ -1,1 +1,1 @@
-nmap z :echo "Hello World"<CR>
+nmap z :call vimplugintest#helloworld()<CR>
